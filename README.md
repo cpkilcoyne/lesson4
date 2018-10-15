@@ -1,5 +1,3 @@
-# lesson4
-this is a repository for my devpsu lesson 4 hw
 Pig Latin
 Ancay youyay eakspay igpay atinlay? (Can you speak pig latin?) If you can’t, here are the rules:
 If a word begins with a consonant, take all of the letters before the first vowel and move them to the end of the word, then add ay to the end of the word. Examples: pig → igpay, there → erethay.
